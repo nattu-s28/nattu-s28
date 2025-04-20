@@ -5,10 +5,10 @@ Artificial Intelligence & Data Science Student @ *Kgisl Institute of Technology*
                                                
 - 🌱 I’m currently learning DSA & Backend Development
 - ⚡ *DO*nt qu*IT*
-- Engineeing Going at [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsymposiumevent.com%2Fevent_details.php%3Fevent_id%3D564&psig=AOvVaw2Vad7yUhGj92QT780e7w7C&ust=1745241441855000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjyh5bZ5owDFQAAAAAdAAAAABAE" height="24">](https://www.kgkite.ac.in/)
+- Engineeing Going at [<img src="https://symposiumevent.com/uploads/KiTE%20logo-01.png" height="24">](https://www.kgkite.ac.in/)
 - Social Presence
-> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natarajan-v-a258a6314/)
-> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/nattusiva_2728/)
+         > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natarajan-v-a258a6314/)
+         > [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/nattusiva_2728/)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
