@@ -4,7 +4,7 @@ Artificial Intelligence & Data Science Student @ *Kgisl Institute of Technology*
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                
 - 🌱 I’m currently learning DSA & Backend Development
-- ⚡ ==DO==nt qu==IT==
+- ⚡ *DO*nt qu*IT*
 - Engineeing Going at [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsymposiumevent.com%2Fevent_details.php%3Fevent_id%3D564&psig=AOvVaw2Vad7yUhGj92QT780e7w7C&ust=1745241441855000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjyh5bZ5owDFQAAAAAdAAAAABAE" height="24">](https://www.kgkite.ac.in/)
 - Social Presence
 > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natarajan-v-a258a6314/)
@@ -17,8 +17,6 @@ Artificial Intelligence & Data Science Student @ *Kgisl Institute of Technology*
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nattu-s28&theme=dark&show_icons=true&&hide=issues,contribs)
+![Natarajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nattu-s28&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nattusiva?theme=dark&font=Original%20Surfer&ext=contest)
-
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
