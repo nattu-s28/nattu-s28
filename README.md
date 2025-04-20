@@ -5,7 +5,7 @@ Artificial Intelligence & Data Science Student @ *Kgisl Institute of Technology*
                                                
 - 🌱 I’m currently learning DSA & Backend Development
 - ⚡ *DO*nt qu*IT*
-- Engineeing Going at [<img src="https://cdn.brandfetch.io/kgkite.ac.in/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" height="24">](https://www.kgkite.ac.in/)
+- Engineeing Going at [<img src="https://cdn.brandfetch.io/kgkite.ac.in/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" height="35">](https://www.kgkite.ac.in/)
 - Social Presence
 >   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/natarajan-v-a258a6314/)
 >   [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/nattusiva_2728/)
