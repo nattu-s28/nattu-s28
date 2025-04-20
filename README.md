@@ -20,5 +20,11 @@
 ## Github Status
 ![Natarajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nattu-s28&theme=dark&show_icons=true&&hide=issues,contribs)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nattu-s28/nattu-s28/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nattu-s28/nattu-s28/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nattu-s28/nattu-s28/output/github-snake.svg" />
+</picture>
+
 ## Leetcode Status
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nattusiva?theme=dark&font=Original%20Surfer&ext=contest)
