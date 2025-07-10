@@ -1,4 +1,4 @@
-# Hi there 👋 It's me Natarajan V
+# Hi there 👋 I'm Natarajan V
 
 **Artificial Intelligence & Data Science Student @ *Kgisl Institute of Technology***
 <img align="right" width="372" height="279" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
