@@ -3,7 +3,7 @@
 **Artificial Intelligence & Data Science Student @ *Kgisl Institute of Technology***
 <img align="right" width="372" height="279" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                                
-- 🌱 I’m currently learning DSA & Backend Development
+- 🌱 I’m currently learning Artificial Intelligence,Data Science,Mechine Learning and Cyber security
 - ⚡ ***DO***NT QU***IT***
 - 👨‍💻 Engineering Going at [<img src="https://cdn.adscientificindex.com/logos/4853.jpg" width="60" height="45">](https://www.kgkite.ac.in/)
 - 📶 Social Presence
