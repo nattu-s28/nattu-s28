@@ -14,16 +14,6 @@
 ## Tech Stack
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 
-## Github Status
-![Natarajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nattu-s28&theme=dark&show_icons=true&&hide=issues,contribs)
-
 ## Leetcode Status
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nattusiva?theme=dark&font=Original%20Surfer&ext=contest)
-
-## Github Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nattu-s28/nattu-s28/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nattu-s28/nattu-s28/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nattu-s28/nattu-s28/output/github-snake.svg" />
-</picture>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Natarajan_x13?theme=dark&font=Original%20Surfer&ext=contest)
 
