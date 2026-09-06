@@ -152,14 +152,14 @@
 <img src="assets/divider.svg" width="100%"/>
 
 <div align="center">
-
+<div align="center">
 ### `NATTU`
 ```
 --------------------------------------------
  CONSISTENCY IS THE KEY TO SUCCESS
 --------------------------------------------
 ```
-
+</div>
 <img src="assets/footer.svg" width="100%" alt="Transmission Ending"/>
 
 </div>
