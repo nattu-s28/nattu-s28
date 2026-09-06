@@ -335,7 +335,7 @@ FOUNDATIONS ──●── DATA SCIENCE ──●── MACHINE LEARNING ──
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0000"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0000"/></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0000"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-8B0000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D0000"/></a>
+<a href="https://leetcode.com/Nattusiva"><img src="https://img.shields.io/badge/LeetCode-8B0000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D0000"/></a>
 <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME"><img src="https://img.shields.io/badge/Kaggle-8B0000?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0D0000"/></a>
 
 </div>
