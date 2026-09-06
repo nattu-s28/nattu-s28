@@ -103,9 +103,9 @@
 <tr>
 
 <td width="100%" valign="top">
-
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nattu-s28&theme=dark&hide_border=true&background=00000000&stroke=FF2020&ring=FF2020&fire=FF2020&currStreakLabel=FF2020&sideLabels=FFEAEA&sideNums=FFEAEA&dates=661111" width="100%"/>
-
+</div>
 </td>
 </tr>
 </table>
