@@ -81,7 +81,7 @@
 
 <div align="center">
 
-### `SOCIAL // COMMUNICATION CHANNELS`
+### `SOCIAL`
 
 <a href="https://github.com/nattu-s28"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF2020&labelColor=000000"/></a>
 <a href="https://www.linkedin.com/in/nattu2728/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF2020&labelColor=000000"/></a>
