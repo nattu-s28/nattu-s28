@@ -152,7 +152,9 @@
 <img src="assets/divider.svg" width="100%"/>
 
 <div align="center">
-#             Consistency is the Key to Success...!
+
+#              Consistency is the Key to Success...!
+
 <img src="assets/footer.svg" width="100%" alt="Transmission Ending"/>
 
 </div>
